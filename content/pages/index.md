@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Dr John Mills CPsychol, FHEA'
+    title: Dr John Mills
     subtitle: Psychologist + Open Science Advisor
     styles:
       self:
