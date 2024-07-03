@@ -5,7 +5,7 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "JOHN MILLS",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -29,15 +29,15 @@
                 "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
-                "url": "https://twitter.com/netlify",
+                "url": "https://twitter.com/drjpmills",
                 "icon": "twitter"
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "altText": "LinkedIn",
+                "label": "LinkedIn",
+                "url": "www.linkedin.com/in/drjpmills",
+                "icon": "linkedin"
             }
         ],
         "styles": {
@@ -77,18 +77,23 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "phoneNumber": "",
+            "phoneAltText": "",
+            "email": "",
+            "emailAltText": "",
+            "address": "",
+            "addressAltText": ""
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "©2024 John P. Mills\n\nA work in progress, built with [Netlify](https://www.netlify.com/platform/)\n",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
