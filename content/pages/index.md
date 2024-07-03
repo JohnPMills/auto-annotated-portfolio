@@ -7,9 +7,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: John p. mills
-    subtitle: >-
-      Hi, I'm John, a Psychologist and Open Science Advisor based between London
-      and Rotterdam.
+    subtitle: Psychologist + Open Science Advisor
     styles:
       self:
         height: auto
