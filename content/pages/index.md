@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: John p. mills
+    title: John P. Mills
     subtitle: Psychologist + Open Science Advisor
     styles:
       self:
