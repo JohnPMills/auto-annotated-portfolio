@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'John p. mills, <br>psychologist + open science advisor'
+    title: 'John p. mills, \\ psychologist + open science advisor'
     subtitle: >-
       Hi, I'm John, a Psychologist and Open Science Advisor based between London
       and Rotterdam.
