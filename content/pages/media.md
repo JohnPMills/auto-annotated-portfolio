@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Media
-    subtitle: The section subtitle
+    subtitle: ''
     text: |+
       1.  2021
           BBC Documentary (Academic Expert), Do Black Lives Still Matter?
