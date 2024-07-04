@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: This in an empty page
+    title: Courses I have taught
     subtitle: The section subtitle
     text: |-
       | Course | Years |
