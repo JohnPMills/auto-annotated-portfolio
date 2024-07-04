@@ -54,10 +54,10 @@ sections:
       Tutor            | 2008 - 2009 |
 
       | Coggeshall Town Football Club — Reserve Team
-      Manager                              | 2007- 2008  |
+      Manager                              | 2007 - 2008 |
 
       | Premier Sport — Area
-      Coordinator                                                  | 2007- 2008 
+      Coordinator                                                  | 2007 - 2008
       |
 
       | Colchester Institute — Head
