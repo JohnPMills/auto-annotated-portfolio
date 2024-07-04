@@ -7,77 +7,75 @@ sections:
     variant: variant-a
     title: This in an empty page
     subtitle: The section subtitle
-    text: >
+    text: >+
       |
       Position                                                                         
-      | Years                      |
+      | Years       |
 
       |
       ---------------------------------------------------------------------------------
-      | -------------------------- |
+      | ----------- |
 
       | Erasmus University Rotterdam – Open Science
-      Advisor                               | September 2023 -           |
+      Advisor                               | 2023 -      |
 
       | University of Ulster - Honorary
-      Fellow                                            | August 2023
-      -              |
+      Fellow                                            | 2023 -      |
 
       | Play Aid CIC -
-      Director                                                           |
-      September 2020 -           |                                              
+      Director                                                           | 2020
+      -      |
 
       | University of Essex — Lecturer in Sport and Performance
-      Science                   | July 2017 - July 2023      |
+      Science                   | 2017 - 2023 |
 
-      | University of Chichester — Senior Lecturer in Community Sport and
-      Coaching        | July 2015 - July 2017      |
+      | University of Chichester — Senior Lecturer in Sport and
+      Coaching                  | 2015 - 2017 |
 
       | Buckinghamshire New University — Associate Lecturer in Sport and
-      Exercise Science | September 2014 - July 2015 |
+      Exercise Science | 2014 - 2015 |
 
       | Anglia Ruskin University — Associate Lecturer in Sport and Exercise
-      Science       | January 2014 - August 2014 |
+      Science       | 2014 - 2014 |
 
       | Aberystwyth University — Teaching Fellow in Sport and Exercise
-      Science            | September 2012 - May 2013  |
+      Science            | 2012 - 2013 |
 
       | Penrhyncoch — Reserve Team
-      Manager                                                |
-      2012-2013                  |
+      Manager                                                | 2012-2013   |
 
       | Aberystwyth University — Associate Lecturer in
-      Psychology                         | September 2011 - June 2012 |
+      Psychology                         | 2011 - 2012 |
 
       | Nayland Primary School — Sports Teacher and Teaching
-      Assistant                    | 2008-2010                  |
+      Assistant                    | 2008 - 2010 |
 
       | Braintree College/Witham Town — Assistant Coach/Further Educator
-      Tutor            | 2008-2009                  |
+      Tutor            | 2008 - 2009 |
 
       | Coggeshall Town Football Club — Reserve Team
-      Manager                              | 2007-2008                  |
+      Manager                              | 2007- 2008  |
 
       | Premier Sport — Area
-      Coordinator                                                  |
-      2007-2008                  |
+      Coordinator                                                  | 2007- 2008 
+      |
 
       | Colchester Institute — Head
-      Coach                                                 |
-      2006-2007                  |
+      Coach                                                 | 2006 - 2007 |
 
       | The Academy UK —
-      Owner                                                            |
-      2005-2007                  |
+      Owner                                                            | 2005 -
+      2007 |
 
       | Major League Soccer — Player Development
-      Officer                                  | 2005-2005                  |
+      Officer                                  | 2005 - 2005 |
 
       | Colchester United Football Club — Academy and Community
-      Coach                     | 2004-2005                  |
+      Coach                     | 2004 - 2005 |
 
       | Ipswich Town Football Club — Academy and Community
-      Coach                          | 2003-2004                  |
+      Coach                          | 2003 - 2004 |
+
     elementId: ''
     styles:
       self:
