@@ -25,9 +25,7 @@ sections:
 
       | Play Aid CIC -
       Director                                                           |
-      September 2020 - 
-
-      |
+      September 2020 -           |                                              
 
       | University of Essex — Lecturer in Sport and Performance
       Science                   | July 2017 - July 2023      |
