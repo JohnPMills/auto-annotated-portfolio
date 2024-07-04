@@ -42,7 +42,7 @@ sections:
       Science            | 2012 - 2013 |
 
       | Penrhyncoch — Reserve Team
-      Manager                                                | 2012-2013   |
+      Manager                                                | 2012 - 2013 |
 
       | Aberystwyth University — Associate Lecturer in
       Psychology                         | 2011 - 2012 |
