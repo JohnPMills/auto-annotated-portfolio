@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Courses I have taught
-    subtitle: The section subtitle
+    subtitle: ''
     text: |-
       | Course | Years |
       | --- | --- |
