@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: This in an empty page
+    title: Research Outputs
     subtitle: The section subtitle
     text: >-
       | Authors | Title | Publication | Year |
