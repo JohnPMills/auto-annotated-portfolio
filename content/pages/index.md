@@ -56,7 +56,7 @@ sections:
       styles:
         submitLabel:
           textAlign: left
-    colors: colors-c
+    colors: colors-a
     backgroundSize: full
     elementId: ''
     styles:
