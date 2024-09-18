@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/playaid.webp
+  url: /images/udemy.webp
   altText: Project thumbnail image
 ---
 
