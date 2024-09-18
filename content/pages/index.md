@@ -157,30 +157,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: TextSection
-    colors: colors-b
-    variant: variant-b
-    title: 'Oh, by the way '
-    subtitle: >-
-      This website does not use cookies on public pages or track you around on
-      other websites. 
-    text: |
-      Copyright John P. Mills 2024
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
 ---
