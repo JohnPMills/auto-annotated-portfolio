@@ -84,7 +84,7 @@
             "address": "",
             "addressAltText": ""
         },
-        "copyrightText": "©2024 John P. Mills\n\nA work in progress, built with [Netlify](https://www.netlify.com/platform/)\n",
+        "copyrightText": "©2024 John P. Mills\n",
         "styles": {
             "self": {
                 "width": "narrow",
