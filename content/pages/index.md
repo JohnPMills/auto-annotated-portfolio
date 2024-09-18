@@ -117,6 +117,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    subtitle: Posts and notes on open science and psychology.
   - type: FeaturedPostsSection
     actions: []
     posts:
