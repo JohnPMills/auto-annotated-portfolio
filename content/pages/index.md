@@ -39,7 +39,7 @@ sections:
     text: "### Hi, I'm John, a Psychologist and Open Science Advisor based between London and Rotterdam.\n\nI consider myself a problem solver and enjoy coming up with creative solutions. I am currently working on changing the academic culture around research integrity through open science at\_[Erasmus University Rotterdam](https://www.eur.nl/en), and figuring out how best to support online gamers with their mental health at\_[Play Aid](https://www.play-aid.org/).\n"
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/headshot.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
