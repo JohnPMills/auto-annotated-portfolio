@@ -83,7 +83,8 @@ sections:
         textAlign: left
   - type: FeaturedPostsSection
     actions: []
-    posts: []
+    posts:
+      - content/pages/blog/test.md
     colors: colors-f
     variant: variant-c
     elementId: ''
