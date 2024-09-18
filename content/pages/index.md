@@ -109,6 +109,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
-    subtitle: Today in my little corner of the internet…
+    subtitle: >-
+      Some posts and notes on open science, psychology, and occasionally
+      football.
     title: Today in my little corner of the internet…
 ---
