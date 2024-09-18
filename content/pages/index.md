@@ -44,7 +44,7 @@ sections:
       caption: Caption of the image
       elementId: ''
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: Current and past projects
     actions:
       - type: Link
         label: See all projects
