@@ -43,6 +43,43 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
+  - type: FeaturedProjectsSection
+    subtitle: 'Projects:'
+    actions:
+      - type: Link
+        label: See all projects
+        altText: See all projects
+        url: /projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    projects:
+      - content/pages/projects/project-one.md
+      - content/pages/projects/project-two.md
+    colors: colors-f
+    variant: variant-a
+    elementId: ''
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
   - type: ContactSection
     title: Subscribe
     text: Join my newsletter to stay up-to-date
@@ -81,43 +118,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
-    actions:
-      - type: Link
-        label: See all projects
-        altText: See all projects
-        url: /projects
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-    projects:
-      - content/pages/projects/project-one.md
-      - content/pages/projects/project-two.md
-    colors: colors-f
-    variant: variant-a
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
   - type: FeaturedPostsSection
     actions: []
     posts:
