@@ -83,8 +83,7 @@ sections:
         textAlign: left
   - type: FeaturedPostsSection
     actions: []
-    posts:
-      - content/pages/blog/post-five.md
+    posts: []
     colors: colors-f
     variant: variant-c
     elementId: ''
