@@ -159,7 +159,7 @@ sections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/navy divide.svg
   backgroundSize: cover
   backgroundPosition: left
   backgroundRepeat: repeat-x
