@@ -84,7 +84,7 @@ sections:
     actions: []
     posts:
       - content/pages/blog/test.md
-    colors: colors-f
+    colors: colors-a
     variant: variant-c
     elementId: ''
     showDate: false
