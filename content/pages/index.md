@@ -90,7 +90,7 @@ sections:
     elementId: ''
     showDate: true
     showAuthor: false
-    showExcerpt: true
+    showExcerpt: false
     showFeaturedImage: false
     showReadMoreLink: true
     styles:
