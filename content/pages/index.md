@@ -80,7 +80,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
-    title: My projects
+    title: What I'm working on...
   - type: FeaturedPostsSection
     title: Today in my little corner of the internet…
     actions:
