@@ -88,7 +88,7 @@ sections:
     colors: colors-f
     variant: variant-c
     elementId: ''
-    showDate: true
+    showDate: false
     showAuthor: false
     showExcerpt: true
     showFeaturedImage: false
