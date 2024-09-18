@@ -161,7 +161,9 @@ sections:
     colors: colors-b
     variant: variant-b
     title: 'Oh, by the way '
-    subtitle: The section subtitle
+    subtitle: >-
+      This website does not use cookies on public pages or track you around on
+      other websites. 
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
