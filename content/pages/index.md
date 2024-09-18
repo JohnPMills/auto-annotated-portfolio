@@ -81,7 +81,7 @@ sections:
       actions:
         justifyContent: center
   - type: FeaturedPostsSection
-    title: 'Posts:'
+    title: Today in my little corner of the internet…
     actions:
       - type: Link
         label: See all posts
