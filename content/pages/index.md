@@ -57,7 +57,7 @@ sections:
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
-    colors: colors-d
+    colors: colors-e
     variant: variant-a
     elementId: ''
     showDate: false
