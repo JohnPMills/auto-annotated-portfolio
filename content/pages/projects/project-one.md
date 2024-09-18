@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Play Aid CIC
+title: Player CARE Coach Course
 colors: colors-a
 date: '2021-10-15'
 client: ''
