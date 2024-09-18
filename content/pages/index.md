@@ -118,38 +118,6 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Posts and notes on open science and psychology.
-  - type: FeaturedPostsSection
-    actions: []
-    posts:
-      - content/pages/blog/test.md
-    colors: colors-a
-    variant: variant-c
-    elementId: ''
-    showDate: false
-    showAuthor: false
-    showExcerpt: true
-    showFeaturedImage: false
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    subtitle: >-
-      Some posts and notes on open science, psychology, and occasionally
-      football.
-    title: Today in my little corner of the internet…
   - type: ContactSection
     title: Subscribe
     text: Join my newsletter to stay up-to-date
