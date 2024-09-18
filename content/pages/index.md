@@ -157,11 +157,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-backgroundImage:
-  type: BackgroundImage
-  url: /images/navy divide.svg
-  backgroundSize: cover
-  backgroundPosition: left
-  backgroundRepeat: repeat-x
-  opacity: 100
 ---
