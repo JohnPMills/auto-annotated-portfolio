@@ -2,7 +2,7 @@
     "type": "ThemeStyle",
     "light": "#1b123b",
     "onLight": "#f8c963",
-    "dark": "#1b1",
+    "dark": "#1b123b",
     "onDark": "#FBFFF2",
     "primary": "#0804F6",
     "onPrimary": "#FBFFF2",
