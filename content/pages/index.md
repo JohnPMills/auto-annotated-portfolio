@@ -59,7 +59,7 @@ sections:
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
-    colors: colors-e
+    colors: colors-a
     variant: variant-a
     elementId: ''
     showDate: false
