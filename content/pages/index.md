@@ -25,7 +25,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
-        borderStyle: double
+        borderStyle: none
         borderWidth: 0
       title:
         textAlign: left
