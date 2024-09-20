@@ -96,7 +96,7 @@ sections:
         elementId: ''
     posts:
       - content/pages/blog/test.md
-    colors: colors-a
+    colors: colors-e
     variant: variant-d
     elementId: ''
     showDate: false
