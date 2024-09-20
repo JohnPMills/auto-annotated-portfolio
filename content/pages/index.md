@@ -140,7 +140,7 @@ sections:
       styles:
         submitLabel:
           textAlign: left
-    colors: colors-b
+    colors: colors-c
     backgroundSize: inset
     elementId: ''
     styles:
