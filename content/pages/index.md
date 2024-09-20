@@ -26,7 +26,7 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
         borderStyle: double
-        borderWidth: 3
+        borderWidth: 0
       title:
         textAlign: left
         fontWeight: 500
