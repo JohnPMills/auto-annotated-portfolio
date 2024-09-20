@@ -4,7 +4,7 @@ title: Home
 colors: colors-b
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-d
     backgroundSize: full
     title: Dr John P. Mills
     subtitle: Psychologist + Open Science Advisor
